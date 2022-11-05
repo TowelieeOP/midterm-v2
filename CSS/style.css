@@ -1,0 +1,341 @@
+@import url("https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@300;400&display=swap");
+
+* {
+  margin: 0;
+}
+
+.yari {
+  position: relative;
+  background-image: url(../Images/Rectangle\ 62.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 1400px;
+  height: 760px;
+}
+
+.crown {
+  position: absolute;
+  color: #27ae60;
+  left: 145px;
+  top: 45px;
+  border-radius: 0px;
+  font-size: 23px;
+  font-family: "Zilla Slab", serif;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.links {
+  position: relative;
+  left: -30px;
+  top: 6px;
+}
+
+.haqqimizda {
+  position: absolute;
+  top: 46px;
+  left: 430px;
+  font-family: "Zilla Slab", serif;
+  cursor: pointer;
+}
+
+.mehsullar {
+  position: absolute;
+  top: 46px;
+  left: 555px;
+  font-family: "Zilla Slab", serif;
+  cursor: pointer;
+}
+
+.reseptler {
+  position: absolute;
+  top: 46px;
+  left: 665px;
+  font-family: "Zilla Slab", serif;
+  cursor: pointer;
+}
+
+.bizimleelaqe {
+  position: absolute;
+  top: 46px;
+  left: 770px;
+  font-family: "Zilla Slab", serif;
+  cursor: pointer;
+}
+
+.az {
+  position: absolute;
+  top: 46px;
+  left: 903px;
+  font-family: "Zilla Slab", serif;
+  cursor: pointer;
+}
+
+.goy {
+  position: absolute;
+  background-image: url(../Images/goy.png);
+  width: 305px;
+  height: 83px;
+  background-repeat: no-repeat;
+  right: -1px;
+  cursor: pointer;
+}
+
+.zell {
+  color: white;
+  font-family: Zilla Slab;
+  height: 34px;
+  width: 102px;
+  left: 17px;
+  top: 23px;
+  position: absolute;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 17px;
+  letter-spacing: 1px;
+  text-align: left;
+  font-family: "Zilla Slab", serif;
+}
+
+.imggg {
+  position: absolute;
+  background-image: url(../Images/Frame.png);
+  width: 54px;
+  height: 29px;
+  top: 26px;
+  left: 127px;
+  cursor: pointer;
+}
+
+.tacimg {
+  background-image: url(../Images/Vector.png);
+  width: 38px;
+  height: 20px;
+  position: absolute;
+  top: 28px;
+  left: 197px;
+  cursor: pointer;
+  background-size: cover;
+}
+
+.vvv {
+  position: absolute;
+  background-image: url(../Images/v.png);
+  height: 8px;
+  width: 11px;
+  left: 925px;
+  top: 53px;
+  border-radius: 0px;
+  cursor: pointer;
+}
+
+.border {
+  background-image: url(../Images/Line\ 24.png);
+  position: absolute;
+  width: 700px;
+  height: 1px;
+  top: 76px;
+  left: 429px;
+}
+
+.solqus {
+  position: absolute;
+  background-image: url(../Images/circle.png);
+  width: 37px;
+  height: 37px;
+  left: 147px;
+  top: 398.631591796875px;
+  border-radius: 0px;
+  cursor: pointer;
+}
+
+.v {
+  position: absolute;
+  background-image: url(../Images/leftv.png);
+  background-repeat: no-repeat;
+  width: 9px;
+  height: 13px;
+  left: 12px;
+  top: 12px;
+  cursor: pointer;
+}
+
+.sagqus {
+  position: absolute;
+  background-image: url(../Images/circle.png);
+  width: 37px;
+  height: 37px;
+  left: 1218px;
+  top: 398.631591796875px;
+  border-radius: 0px;
+  cursor: pointer;
+  transform: rotate(180deg);
+}
+
+.h1 {
+  position: absolute;
+  height: 118px;
+  width: 690px;
+  left: 355px;
+  top: 340px;
+  font-size: 38px;
+  font-weight: 700;
+  line-height: 59px;
+  letter-spacing: 6px;
+  text-align: center;
+  font-family: "Zilla Slab", serif;
+  font-size: 38px;
+  font-weight: 500;
+  line-height: 59px;
+  letter-spacing: 6px;
+  text-align: center;
+  color: white;
+}
+
+.fff {
+  background-image: url(../Images/white.png);
+  position: absolute;
+  top: 683px;
+  left: 145px;
+  width: 26px;
+  height: 26px;
+  cursor: pointer;
+}
+
+.fbbb {
+  background-image: url(../Images/f.png);
+  width: 8px;
+  height: 13px;
+  position: absolute;
+  left: 9px;
+  top: 5px;
+  cursor: pointer;
+}
+
+.instagram {
+  position: absolute;
+  background-image: url(../Images/green.png);
+  height: 26px;
+  width: 26px;
+  top: 683px;
+  left: 178px;
+  border-radius: 0px;
+  cursor: pointer;
+}
+
+.instagramimg {
+  background-image: url(../Images/insta-removebg-preview.png);
+  position: absolute;
+  top: 3.5px;
+  left: 2.5px;
+  width: 18px;
+  height: 17px;
+  background-size: cover;
+  cursor: pointer;
+}
+
+.youtube {
+  background-image: url(../Images/white.png);
+  position: absolute;
+  top: 683px;
+  left: 212px;
+  height: 26px;
+  width: 26px;
+  cursor: pointer;
+}
+
+.youtubeimg {
+  background-image: url(../Images/yt.png);
+  position: absolute;
+  top: 8px;
+  left: 7px;
+  height: 9px;
+  width: 13px;
+  cursor: pointer;
+}
+
+.white1 {
+  position: absolute;
+  background-image: url(../Images/white.png);
+  top: -142px;
+  left: 609px;
+  width: 8px;
+  height: 8px;
+  background-size: cover;
+  cursor: pointer;
+}
+
+.white2 {
+  position: absolute;
+  background-image: url(../Images/white.png);
+  top: -142px;
+  left: 629px;
+  width: 8px;
+  height: 8px;
+  background-size: cover;
+  cursor: pointer;
+}
+
+.white3 {
+  position: absolute;
+  background-image: url(../Images/white.png);
+  top: -142px;
+  left: 650px;
+  width: 8px;
+  height: 8px;
+  background-size: cover;
+  cursor: pointer;
+}
+
+.cow {
+  background-image: url(../Images/cow.png);
+  position: absolute;
+  height: 522px;
+  width: 678px;
+  left: 576px;
+  top: 910px;
+  border-radius: 0px;
+}
+
+.contain {
+  position: absolute;
+  top: 835px;
+  left: 80px;
+  width: 700px;
+  height: 532px;
+  background-color: white;
+}
+
+.xett {
+  background-image: url(../Images/Rectangle\ 96.png);
+  position: absolute;
+  width: 760px;
+  height: 578px;
+  top: -25px;
+  left: -25px;
+}
+
+.h2 {
+  width: 251px;
+  height: 43px;
+  font-family: "Zilla Slab";
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 43px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.p {
+  position: absolute;
+  height: 336px;
+  width: 570px;
+  left: 3px;
+  top: 68px;
+  font-family: "Zilla Slab";
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: left;
+}
